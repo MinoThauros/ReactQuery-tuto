@@ -1,3 +1,8 @@
+# Overview
+
+This is a sample project displaying the effectiveness of React Query at acting as an interface between API calls and app internal state. It effectively handles querying, caching and server-side mutation; all this while exposing props to ensure sync between app state and API responses. Will add Query mutation use cases pretty soon
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
